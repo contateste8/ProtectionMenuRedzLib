@@ -61,7 +61,7 @@ Background = ColorSequence.new{
 },
 Primary=Color3.fromRGB(255,255,255),
 OnPrimary=Color3.fromRGB(164,164,164),
-ScrollBar=Color3.fromRGB(1,76,105),
+ScrollBar=Color3.fromRGB(255,255,255),
 Stroke=Color3.fromRGB(50,50,50),
 
 Error=Color3.fromRGB(255,102,102),
