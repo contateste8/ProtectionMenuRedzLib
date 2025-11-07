@@ -74,7 +74,7 @@ Dialog={
 Background=Color3.fromRGB(28,28,28)
 },
 Buttons={
-Holding=Color3.fromRGB(40,40,40),
+Holding=Color3.fromRGB(60,60,60),
 Default=Color3.fromRGB(40,40,40)
 },
 Border={
