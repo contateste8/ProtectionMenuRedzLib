@@ -60,9 +60,9 @@ Background = ColorSequence.new{
 	ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))
 },
 Primary=Color3.fromRGB(255,255,255),
-OnPrimary=Color3.fromRGB(164,164,164),
+OnPrimary=Color3.fromRGB(255,255,255),
 ScrollBar=Color3.fromRGB(255,255,255),
-Stroke=Color3.fromRGB(42,42,42),
+Stroke=Color3.fromRGB(36,36,36),
 
 Error=Color3.fromRGB(255,102,102),
 Icons=Color3.fromRGB(255,255,255),
