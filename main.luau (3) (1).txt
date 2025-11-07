@@ -62,7 +62,7 @@ Background = ColorSequence.new{
 Primary=Color3.fromRGB(255,255,255),
 OnPrimary=Color3.fromRGB(255,255,255),
 ScrollBar=Color3.fromRGB(255,255,255),
-Stroke=Color3.fromRGB(30,30,30),
+Stroke=Color3.fromRGB(33,33,33),
 
 Error=Color3.fromRGB(255,102,102),
 Icons=Color3.fromRGB(255,255,255),
@@ -129,7 +129,7 @@ GitHubOwner="tlredz"
 },
 Default={
 Theme="Darker",
-UISize=UDim2.fromOffset(500,300),
+UISize=UDim2.fromOffset(455,250),
 TabSize=160
 },
 
