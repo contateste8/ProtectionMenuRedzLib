@@ -4019,15 +4019,15 @@ return UDim2.new(0,math.clamp(aB,135,210),0.5,15)
 end)
 
 local aA={
-Title="Close Window?",
-Content="You Want Close UI?",
+Title="Fechar Janela?",
+Content="Deseja fechar o menu?",
 Options={
 {
-Title="Yes",
+Title="Sim",
 Callback=function()self:Destroy()end
 },
 {
-Title="No"
+Title="Não"
 }
 }
 }
