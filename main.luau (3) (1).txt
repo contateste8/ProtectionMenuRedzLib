@@ -129,7 +129,7 @@ GitHubOwner="tlredz"
 },
 Default={
 Theme="Darker",
-UISize=UDim2.fromOffset(455,250),
+UISize=UDim2.fromOffset(463,241),
 TabSize=160
 },
 
