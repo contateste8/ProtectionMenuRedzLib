@@ -56,16 +56,16 @@ local r={
 Darker={
 Colors={
 Background = ColorSequence.new{
-	ColorSequenceKeypoint.new(0.00, Color3.fromRGB(50, 50, 50)),
-	ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))
+	ColorSequenceKeypoint.new(0.00, Color3.fromRGB(45, 45, 45)),
+	ColorSequenceKeypoint.new(1.00, Color3.fromRGB(45, 45, 45))
 },
 Primary=Color3.fromRGB(255,255,255),
 OnPrimary=Color3.fromRGB(164,164,164),
 ScrollBar=Color3.fromRGB(255,255,255),
-Stroke=Color3.fromRGB(70,70,70),
+Stroke=Color3.fromRGB(37,37,37),
 
 Error=Color3.fromRGB(255,102,102),
-Icons=Color3.fromRGB(232,233,235),
+Icons=Color3.fromRGB(255,255,255),
 
 JoinButton=Color3.fromRGB(37,128,69),
 Link=Color3.fromRGB(40,150,255),
@@ -74,8 +74,8 @@ Dialog={
 Background=Color3.fromRGB(28,28,28)
 },
 Buttons={
-Holding=Color3.fromRGB(34,34,34),
-Default=Color3.fromRGB(28,28,30)
+Holding=Color3.fromRGB(40,40,40),
+Default=Color3.fromRGB(40,40,40)
 },
 Border={
 Holding=Color3.fromRGB(60,60,60),
